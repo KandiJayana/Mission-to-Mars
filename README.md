@@ -12,3 +12,5 @@ use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemi
   
 - Add Bootstrap 3 Components:
   - Update your web app to make it mobile-responsive, and add two additional Bootstrap 3 components to make it stand out.
+
+![This is an image](https://github.com/KandiJayana/Mission-to-Mars/blob/d6fee5a3522d6189f646b2166cd5a605f228c7a2/Mars%20Hemispheres.png)
